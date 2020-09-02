@@ -1,0 +1,303 @@
+﻿NOME_UNIDADE;TIPO
+" UFCSPA";"Unidade Administrativa"
+"Assessoria Especial de Comunicação Social";"Unidade Administrativa"
+"Auditoria Interna";"Unidade Administrativa"
+Biblioteca;"Unidade Administrativa"
+CIS;"Unidade Administrativa"
+"Comissão de Biossegurança";"Unidade Administrativa"
+"Comissão de Ética";"Unidade Administrativa"
+"Comissão de Residência Médica";"Unidade Administrativa"
+"Comissão de Residências Profissionais";"Unidade Administrativa"
+"Comissão Própria de Avaliação (CPA)";"Unidade Administrativa"
+"Comitê de Ética em Pesquisa (CEP)";"Unidade Administrativa"
+"Comitê de Ética no Uso de Animais (CEUA)";"Unidade Administrativa"
+CONSEPE;"Unidade Administrativa"
+CONSUN;"Unidade Administrativa"
+"Coordenação da Pós-Graduação Lato Sensu";"Unidade Administrativa"
+"Coordenação da Pós-Graduação Stricto Sensu";"Unidade Administrativa"
+"Coordenação de Assuntos Docentes";"Unidade Administrativa"
+"Coordenação de Assuntos Estudantis";"Unidade Administrativa"
+"Coordenação de Avaliação Instituicional";"Unidade Administrativa"
+"Coordenação de Concursos Públicos e Normas de Pessoal";"Unidade Administrativa"
+"Coordenação de Convênios e Projetos Institucionais";"Unidade Administrativa"
+"Coordenação de Desenvolvimento Institucional";"Unidade Administrativa"
+"Coordenação de Engenharia";"Unidade Administrativa"
+"Coordenação de Estratégia e Inovação em Gestão com Pessoas";"Unidade Administrativa"
+"Coordenação de Extensão e Cultura";"Unidade Administrativa"
+"Coordenação de Iniciação a Docência (PID), Monitorias e Formação Docente";"Unidade Administrativa"
+"Coordenação de Mobilidade";"Unidade Administrativa"
+"Coordenação de Pesquisa";"Unidade Administrativa"
+"Coordenação de Processos Avaliativos";"Unidade Administrativa"
+"Coordenação de Processos de Ensino";"Unidade Administrativa"
+CPPD;"Unidade Administrativa"
+"Curso de Biomedicina";Curso/Habilitação/Opção
+"Curso de Biomedicina - Noturno";Curso/Habilitação/Opção
+"Curso de Enfermagem";Curso/Habilitação/Opção
+"Curso de Farmácia";Curso/Habilitação/Opção
+"Curso de Física Médica";Curso/Habilitação/Opção
+"Curso de Fisioterapia";Curso/Habilitação/Opção
+"Curso de Fonoaudiologia";Curso/Habilitação/Opção
+"Curso de Gastronomia";Curso/Habilitação/Opção
+"Curso de Gestão em Saúde";Curso/Habilitação/Opção
+"Curso de Informática Biomédica";Curso/Habilitação/Opção
+"Curso de Medicina";Curso/Habilitação/Opção
+"Curso de Nutrição";Curso/Habilitação/Opção
+"Curso de Psicologia";Curso/Habilitação/Opção
+"Curso de Química Medicinal";Curso/Habilitação/Opção
+"Curso de Tecnologia em Alimentos";Curso/Habilitação/Opção
+"Curso de Toxicologia Analítica";Curso/Habilitação/Opção
+"Curso Especial";Curso/Habilitação/Opção
+Cursos;"Unidade Administrativa"
+"Departamento de Administração de Pessoas";"Unidade Administrativa"
+"Departamento de Ciências Básicas da Saúde";"Departamento Didático"
+"Departamento de Ciências Exatas e Sociais Aplicadas";"Departamento Didático"
+"Departamento de Clínica Cirúrgica";"Departamento Didático"
+"Departamento de Clínica Médica";"Departamento Didático"
+"Departamento de Compras e Contratos";"Unidade Administrativa"
+"Departamento de Contabilidade e Finanças";"Unidade Administrativa"
+"Departamento de Desenvolvimento de Pessoas";"Unidade Administrativa"
+"Departamento de Desenvolvimento, Bem-estar e Segurança no Trabalho";"Unidade Administrativa"
+"Departamento de Educação e Humanidades";"Departamento Didático"
+"Departamento de Enfermagem";"Departamento Didático"
+"Departamento de Farmacociências";"Departamento Didático"
+"Departamento de Fisioterapia";"Departamento Didático"
+"Departamento de Fonoaudiologia";"Departamento Didático"
+"Departamento de Ginecologia e Obstetrícia";"Departamento Didático"
+"Departamento de Métodos Diagnósticos";"Departamento Didático"
+"Departamento de Nutrição";"Departamento Didático"
+"Departamento de Orçamento";"Unidade Administrativa"
+"Departamento de Patologia e Medicina Legal";"Departamento Didático"
+"Departamento de Pediatria";"Departamento Didático"
+"Departamento de Psicologia";"Departamento Didático"
+"Departamento de Registro e Controle Acadêmico";"Unidade Administrativa"
+"Departamento de Saúde Coletiva";"Departamento Didático"
+"Departamento de Serviços Gerais";"Unidade Administrativa"
+"Departamentos de Ensino";"Departamento Didático"
+"Divisão Administrativa";"Unidade Administrativa"
+"Divisão de Almoxarifado";"Unidade Administrativa"
+"Divisão de Análise e Desenvolvimento de Sistemas";"Unidade Administrativa"
+"Divisão de Arquitetura";"Unidade Administrativa"
+"Divisão de Arquivo";"Unidade Administrativa"
+"Divisão de Bem-estar e Saúde no trabalho";"Unidade Administrativa"
+"Divisão de Benefícios, Ações Judiciais e Registro de Atos de Pessoal";"Unidade Administrativa"
+"Divisão de Cadastro de Fornecedores";"Unidade Administrativa"
+"Divisão de Compras";"Unidade Administrativa"
+"Divisão de Contratos";"Unidade Administrativa"
+"Divisão de Desenvolvimento de Carreira";"Unidade Administrativa"
+"Divisão de Desenvolvimento de Competências";"Unidade Administrativa"
+"Divisão de Engenharia de Segurança";"Unidade Administrativa"
+"Divisão de Ingresso, Movimentação e Acompanhamento de Pessoal";"Unidade Administrativa"
+"Divisão de Jornalismo";"Unidade Administrativa"
+"Divisão de Licitações";"Unidade Administrativa"
+"Divisão de Manutenção";"Unidade Administrativa"
+"Divisão de Patrimônio";"Unidade Administrativa"
+"Divisão de Processamento de Folha de Pagamento";"Unidade Administrativa"
+"Divisão de Produção Fotográfica";"Unidade Administrativa"
+"Divisão de Produção Jornalística";"Unidade Administrativa"
+"Divisão de Programação Visual";"Unidade Administrativa"
+"Divisão de Protocolo";"Unidade Administrativa"
+"Divisão de Recebimento e Expedição de Materiais";"Unidade Administrativa"
+"Divisão de Registro Acadêmico";"Unidade Administrativa"
+"Divisão de Relações Públicas";"Unidade Administrativa"
+"Divisão de Segurança e Infraestrutura";"Unidade Administrativa"
+"Divisão de Segurança no Trabalho";"Unidade Administrativa"
+"Divisão de Serviços Gerais";"Unidade Administrativa"
+"Divisão de Suporte Técnico";"Unidade Administrativa"
+"Divisão Jurídica";"Unidade Administrativa"
+"Doutorado - PPG Ciências da Reabilitação";Curso/Habilitação/Opção
+"Doutorado - PPG em Biociências";Curso/Habilitação/Opção
+"Doutorado - PPG em Ciências da Saúde";Curso/Habilitação/Opção
+"Doutorado - PPG em Medicina: Hepatologia";Curso/Habilitação/Opção
+"Doutorado - PPG em Patologia";Curso/Habilitação/Opção
+"Doutorado - PPG em Pediatria";Curso/Habilitação/Opção
+"Doutorado - PPG em TIG Saúde";Curso/Habilitação/Opção
+EDITORA;"Orgão Suplementar Setorial"
+"Escritório de Internacionalização";"Unidade Administrativa"
+"Escritório de Projetos";"Unidade Administrativa"
+"Especialização - Distúrbios do Movimento e Demência";Curso/Habilitação/Opção
+"Especialização - Ginecologia Infanto-Juvenil";Curso/Habilitação/Opção
+"Especialização - Nefrologia Pediátrica";Curso/Habilitação/Opção
+"Especialização - Neonatologia";Curso/Habilitação/Opção
+"Especialização em Saúde da Família - Especialidade: Enfermagem";Curso/Habilitação/Opção
+"Especialização em Saúde da Família - Especialidade: Medicina";Curso/Habilitação/Opção
+"Especialização em Saúde da Família - Especialidade: Odontologia";Curso/Habilitação/Opção
+"Especialização Preceptoria Med. Família e Comunidade - Ênfase em Clínica de MFC";Curso/Habilitação/Opção
+"Gabinete da Reitoria";"Unidade Administrativa"
+"Gerência de Biotérios";"Unidade Administrativa"
+"Gerência de Laboratórios";"Unidade Administrativa"
+"Gerência de Laboratórios de Pesquisa e Pós-Graduação";"Unidade Administrativa"
+"Lato Sensu";"Unidade Administrativa"
+"Mestrado - PPG Ciências da Reabilitação";Curso/Habilitação/Opção
+"Mestrado - PPG em Biociências";Curso/Habilitação/Opção
+"Mestrado - PPG em Ciências da Nutrição";Curso/Habilitação/Opção
+"Mestrado - PPG em Ciências da Saúde";Curso/Habilitação/Opção
+"Mestrado - PPG em Ciências Médicas";Curso/Habilitação/Opção
+"Mestrado - PPG em Enfermagem";Curso/Habilitação/Opção
+"Mestrado - PPG em Medicina: Hepatologia";Curso/Habilitação/Opção
+"Mestrado - PPG em Patologia";Curso/Habilitação/Opção
+"Mestrado - PPG em Pediatria";Curso/Habilitação/Opção
+"Mestrado - PPG em Saúde da Família";Curso/Habilitação/Opção
+"Mestrado - PPG em TIG Saúde";Curso/Habilitação/Opção
+"Mestrado - PPG Ensino na Saúde";Curso/Habilitação/Opção
+"Mestrado- PPG em Psicologia e Saúde";Curso/Habilitação/Opção
+"Núcleo Cultural";"Unidade Administrativa"
+"Núcleo de Acervo Histórico";"Unidade Administrativa"
+"Núcleo de Apoio a Salas";"Unidade Administrativa"
+"Núcleo de Apoio Psicopedagógico (NAP)";"Unidade Administrativa"
+"Núcleo de Educação a Distância";"Unidade Administrativa"
+"Núcleo de Gestão Ambiental";"Unidade Administrativa"
+"Núcleo de Inovação e Tecnologias Educacionais";"Unidade Administrativa"
+"Núcleo de Inovação Tecnológica e Empreendedorismo";"Unidade Administrativa"
+"Núcleo de Qualidade Interna";"Unidade Administrativa"
+"Núcleo de Seleção, Acompanhamento e Avaliação da Assistência Estudantil";"Unidade Administrativa"
+"Núcleo de Tecnologia da Informação - NTI";"Unidade Administrativa"
+"Núcleo Incluir";"Unidade Administrativa"
+Ouvidoria;"Unidade Administrativa"
+"Prefeitura do Campus";"Unidade Administrativa"
+"PRM em ANESTESIOLOGIA ";Curso/Habilitação/Opção
+"PRM em Angiorradiologia e Cirurgia Endovascular";Curso/Habilitação/Opção
+"PRM em ATENÇÃO AO CÂNCER INFANTIL";Curso/Habilitação/Opção
+"PRM em ATENÇÃO EM TERAPIA INTENSIVA";Curso/Habilitação/Opção
+"PRM em Cancerologia Cirúrgica";Curso/Habilitação/Opção
+"PRM em Cancerologia Clínica";Curso/Habilitação/Opção
+"PRM em Cancerologia Pediátrica";Curso/Habilitação/Opção
+"PRM em CARDIOLOGIA";Curso/Habilitação/Opção
+"PRM em CARDIOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em CIRURGIA BÁSICA";Curso/Habilitação/Opção
+"PRM em CIRURGIA CARDIOVASCULAR";Curso/Habilitação/Opção
+"PRM em CIRURGIA DA MÃO";Curso/Habilitação/Opção
+"PRM em CIRURGIA DE CABEÇA E PESCOÇO";Curso/Habilitação/Opção
+"PRM em CIRURGIA DO APARELHO DIGESTIVO";Curso/Habilitação/Opção
+"PRM em CIRURGIA DO APARELHO DIGESTIVO - TX DE FÍGADO";Curso/Habilitação/Opção
+"PRM em CIRURGIA GERAL";Curso/Habilitação/Opção
+"PRM em CIRURGIA ONCOLÓGICA";Curso/Habilitação/Opção
+"PRM em CIRURGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em CIRURGIA PLÁSTICA";Curso/Habilitação/Opção
+"PRM em CIRURGIA TORÁCICA";Curso/Habilitação/Opção
+"PRM em CIRURGIA VASCULAR";Curso/Habilitação/Opção
+"PRM em CIRURGIA VIDEOLAPAROSCÓPICA";Curso/Habilitação/Opção
+"PRM em CITOPATOLOGIA";Curso/Habilitação/Opção
+"PRM em CLÍNICA MÉDICA ";Curso/Habilitação/Opção
+"PRM em CLÍNICA MÉDICA - R3";Curso/Habilitação/Opção
+"PRM em COLOPROCTOLOGIA";Curso/Habilitação/Opção
+"PRM em DERMATOLOGIA ";Curso/Habilitação/Opção
+"PRM em DOR";Curso/Habilitação/Opção
+"PRM em ECOCARDIOGRAFIA";Curso/Habilitação/Opção
+"PRM em ELETROFISIOLOGIA CLÍNICA INVASIVA";Curso/Habilitação/Opção
+"PRM em EMERGÊNCIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em ENDOCRINOLOGIA";Curso/Habilitação/Opção
+"PRM em ENDOCRINOLOGIA E METABOLOGIA";Curso/Habilitação/Opção
+"PRM em ENDOCRINOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em GASTROENTEROLOGIA";Curso/Habilitação/Opção
+"PRM em GASTROENTEROLOGIA - HEPATOLOGIA";Curso/Habilitação/Opção
+"PRM em GASTROENTEROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em GENÉTICA MÉDICA";Curso/Habilitação/Opção
+"PRM em HEMATOLOGIA E HEMOTERAPIA";Curso/Habilitação/Opção
+"PRM em HEMATOLOGIA E HEMOTERAPIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em HEMODINÂMICA E CARDIOLOGIA INTERVENCIONISTA";Curso/Habilitação/Opção
+"PRM em HEPATOLOGIA";Curso/Habilitação/Opção
+"PRM em INFECTOLOGIA";Curso/Habilitação/Opção
+"PRM em MASTOLOGIA";Curso/Habilitação/Opção
+"PRM em MEDICINA DE FAMÍLIA E COMUNIDADE";Curso/Habilitação/Opção
+"PRM em MEDICINA DE URGÊNCIA";Curso/Habilitação/Opção
+"PRM em MEDICINA FETAL";Curso/Habilitação/Opção
+"PRM em MEDICINA INTENSIVA";Curso/Habilitação/Opção
+"PRM em MEDICINA INTENSIVA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em MEDICINA PALIATIVA";Curso/Habilitação/Opção
+"PRM em NEFROLOGIA ";Curso/Habilitação/Opção
+"PRM em NEFROLOGIA - TX RENAL ADULTO";Curso/Habilitação/Opção
+"PRM em NEFROLOGIA - TX RENAL PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em NEFROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em NEONATOLOGIA";Curso/Habilitação/Opção
+"PRM em NEUROFISIOLOGIA CLÍNICA";Curso/Habilitação/Opção
+"PRM em NEUROLOGIA";Curso/Habilitação/Opção
+"PRM em NEUROLOGIA - NEUROFISIOLOGIA";Curso/Habilitação/Opção
+"PRM em NEUROLOGIA - NEUROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em NEUROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em OBSTETRÍCIA E GINECOLOGIA";Curso/Habilitação/Opção
+"PRM em OBSTETRÍCIA E GINECOLOGIA - MEDICINA FETAL";Curso/Habilitação/Opção
+"PRM em OBSTETRÍCIA E GINECOLOGIA - R4";Curso/Habilitação/Opção
+"PRM em OFTALMOLOGIA";Curso/Habilitação/Opção
+"PRM em ONCOHEMATOLOGIA";Curso/Habilitação/Opção
+"PRM em ONCOLOGIA CLÍNICA";Curso/Habilitação/Opção
+"PRM em ONCOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em ORTOPEDIA E TRAUMATOLOGIA";Curso/Habilitação/Opção
+"PRM em OTORRINOLARINGOLOGIA";Curso/Habilitação/Opção
+"PRM em PATOLOGIA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - CARDIOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - GASTROENTEROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - HEMATOLOGIA E HEMOTERAPIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - MEDICINA INTENSIVA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - NEFROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - NEFROLOGIA PEDIÁTRICA - TX RENAL PEDIÁTRICO";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - NEONATOLOGIA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - NEUROLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PEDIATRIA - PNEUMOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PNEUMOLOGIA";Curso/Habilitação/Opção
+"PRM em PNEUMOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em PSIQUIATRIA";Curso/Habilitação/Opção
+"PRM em PSIQUIATRIA FORENSE";Curso/Habilitação/Opção
+"PRM em PSQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA";Curso/Habilitação/Opção
+"PRM em RADIOLOGIA E DIAGNÓSTICO POR IMAGEM";Curso/Habilitação/Opção
+"PRM em RADIOTERAPIA";Curso/Habilitação/Opção
+"PRM em RADIOTERAPIA";Curso/Habilitação/Opção
+"PRM em REUMATOLOGIA";Curso/Habilitação/Opção
+"PRM em REUMATOLOGIA PEDIÁTRICA";Curso/Habilitação/Opção
+"PRM em TRANSPLANTE DE CORAÇÃO";Curso/Habilitação/Opção
+"PRM em TRANSPLANTE DE FÍGADO";Curso/Habilitação/Opção
+"PRM em TRANSPLANTE DE PULMÃO";Curso/Habilitação/Opção
+"PRM em TRANSPLANTE RENAL";Curso/Habilitação/Opção
+"PRM em TRANSPLANTE RENAL PEDIÁTRICO";Curso/Habilitação/Opção
+"PRM em UROLOGIA";Curso/Habilitação/Opção
+"PRÓ-REITORIA DE ADMINISTRAÇÃO (PROAD)";"Unidade Administrativa"
+"PRÓ-REITORIA DE EXTENSÃO, CULTURA E ASSUNTOS ESTUDANTIS (PROEXT)";"Unidade Administrativa"
+"PRÓ-REITORIA DE GESTÃO COM PESSOAS (PROGESP)";"Unidade Administrativa"
+"PRÓ-REITORIA DE PESQUISA E PÓS-GRADUAÇÃO (PROPPG)";"Unidade Administrativa"
+"PRÓ-REITORIA DE PLANEJAMENTO (PROPLAN)";"Unidade Administrativa"
+"Procuradoria Federal";"Unidade Administrativa"
+PROGRAD;"Unidade Administrativa"
+"Programa de Especialização Médica";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Biociências";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Ciências da Nutrição";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Ciências da Reabilitação";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Ciências da Saúde";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Ciências Médicas";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Enfermagem";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Medicina: Hepatologia";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Patologia";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Pediatria";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Psicologia e Saúde";Curso/Habilitação/Opção
+"Programa de Pós-Graduação em Saúde da Família";Curso/Habilitação/Opção
+"Programa de Pós-Graduação Ensino na Saúde";Curso/Habilitação/Opção
+"Programa de Pós-Graduação TIG Saúde";Curso/Habilitação/Opção
+"Programas de Pós-Graduação";"Unidade Administrativa"
+REITORIA;"Unidade Administrativa"
+"Residência Médica";"Unidade Administrativa"
+SCDP;"Unidade Administrativa"
+"Seção de Controle Acadêmico";"Unidade Administrativa"
+"Seção Registro de Diplomas";"Unidade Administrativa"
+"Secretaria da COREME";"Unidade Administrativa"
+"Secretaria da COREMU";"Unidade Administrativa"
+"Secretaria da Especialização";"Unidade Administrativa"
+"Secretaria da Extensão";"Unidade Administrativa"
+"Secretaria da PROAD";"Unidade Administrativa"
+"Secretaria da PROEXT";"Unidade Administrativa"
+"Secretaria da PROGRAD";"Unidade Administrativa"
+"Secretaria da PROPLAN";"Unidade Administrativa"
+"Secretaria da PROPPG";"Unidade Administrativa"
+"Secretaria de Ensino";"Unidade Administrativa"
+"Secretaria do Conselho - CONSEPE";"Unidade Administrativa"
+"Secretaria do Conselho - CONSUN";"Unidade Administrativa"
+"Secretaria do Departamento de Ciências Básicas da Saúde";"Unidade Administrativa"
+"Secretaria do Departamento de Ciências Exatas e Aplicadas";"Unidade Administrativa"
+"Secretaria do Departamento de Ginecologia e Obstetrícia";"Unidade Administrativa"
+"Secretaria do Departamento de Patologia e Medicina Legal";"Unidade Administrativa"
+"Secretaria do Departamento de Psicologia";"Unidade Administrativa"
+"Secretaria dos Conselhos Superiores";"Unidade Administrativa"
+"Secretaria Geral";"Unidade Administrativa"
+"Secretaria Vice-Reitoria";"Unidade Administrativa"
+"Serviço de Informação ao Cidadão";"Unidade Administrativa"
+"Stricto Sensu";"Unidade Administrativa"
+UNA-SUS;"Unidade Administrativa"
+VICE-REITORIA;"Unidade Administrativa"
